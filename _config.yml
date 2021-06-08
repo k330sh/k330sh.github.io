@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI_Consultant"
+title                    : "Sun_Ho_AIConsultant"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KIM_SUN_HO"
-description              : "I am trying to pave the way to become an AI consultant."
+name                     : "SUN_HO"
+description              : "to become an AI consultant."
 url                      : "https://k330sh.github.io"  
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
