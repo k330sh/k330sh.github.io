@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Sun_Ho_AIConsultant"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : ""&#124;""
+subtitle                 : "Version 1.0"
 name                     : "SUN_HO"
 description              : "to become an AI consultant."
 url                      : "https://k330sh.github.io"  
