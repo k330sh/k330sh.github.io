@@ -20,7 +20,7 @@ title                    : "Sun_Ho_AIConsultant"
 title_separator          : ""&#124;""
 subtitle                 : "Version 1.0"
 name                     : "SUN_HO"
-description              : "to become an AI consultant."
+description              : "머신러닝과 딥러닝 등의 다양한 개발을 공부하는 블로그"
 url                      : "https://k330sh.github.io"  
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SUN_HO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "天助自助之人 <br> Professional AI Consultant되기 위하여 공부하고 노력하려고 합니다."
+  location         : "Republic of Korea"
+  email            : "k330sh@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
